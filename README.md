@@ -1,6 +1,6 @@
-# DespliegueRedServidores 🖥️
+# ServerNetworkDeployment 🖥️
 
-A deployment and server configuration project created as **Práctica Creativa 1** for the CDPS course at ETSIT‑UPM (2023–2024).
+A deployment and server configuration project created for the CDPS course at ETSIT‑UPM (2023–2024).
 
 ---
 
